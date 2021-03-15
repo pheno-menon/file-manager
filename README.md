@@ -1,5 +1,5 @@
-# College-Notes-Gallery
-## A notes management system which helps users to upload,download and manage notes of their particular course. The whole system is coded in core PHP and MySqli
+# Papyrus
+## A file management system which helps users to upload,download and manage files of their own. The whole system is coded in core PHP and MySqli
 
 
 
@@ -21,11 +21,7 @@ username: root
 
 password: adminroot
 
-2. User:
-
-username: user
-
-password: userpass
+2. User: Register on the system as a new user
 
 ### Main Features
 
